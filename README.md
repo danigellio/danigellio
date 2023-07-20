@@ -9,10 +9,11 @@
 
 <h4>💻 Github Stats:</h4> 
  <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danigellio&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Dani Gellio github stats" /> 
+   <img  height="170px" src="https://github-readme-stats.vercel.app/api?username=danigellio&show_icons=true&theme=tokyonight"/> 
   <a href="https://github.com/danigellio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigellio&layout=compact&langs_count=16&theme=dracula"/>
-   
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigellio&layout=compact&langs_count=16&theme=tokyonight"/>
+  
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
