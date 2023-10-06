@@ -7,8 +7,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<h4>💻 </h4> 
+<h4>💻 Github Stats:</h4> 
+ <!--<div align="center">
+   <img  height="170px" src="https://github-readme-stats.vercel.app/api?username=danigellio&show_icons=true&theme=tokyonight"/> -->
+  <a href="https://github.com/danigellio">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigellio&layout=compact&langs_count=16&theme=tokyonight"/>
+  
 
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
